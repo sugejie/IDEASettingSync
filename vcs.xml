@@ -6,8 +6,17 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="sugejie" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/archguide/tomcat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/sugejie/tomcat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="F:\workspace\idea" />
   </component>
   <component name="HgRememberedInputs">
     <option name="visitedUrls">
