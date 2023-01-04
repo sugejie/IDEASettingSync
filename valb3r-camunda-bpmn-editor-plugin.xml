@@ -1,0 +1,9 @@
+<application>
+  <component name="CamundaBpmnPluginSettingsState">
+    <option name="openExtensions">
+      <set>
+        <option value="bpmn" />
+      </set>
+    </option>
+  </component>
+</application>
