@@ -18,6 +18,10 @@
           <option name="url" value="https://gitee.com/sugejie/spring-cloud-luban.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://2.22.128.38:27003" />
+          <option name="userName" value="zhoufei" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\workspace\idea" />
