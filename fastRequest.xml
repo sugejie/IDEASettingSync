@@ -106,8 +106,8 @@
           </map>
         </option>
         <option name="methodType" value="POST" />
-        <option name="originUrl" value="/api/open/pst/member" />
-        <option name="url" value="/api/open/pst/member" />
+        <option name="originUrl" value="" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
