@@ -94,11 +94,19 @@
         <option value="local" />
       </list>
     </option>
+    <option name="headerList">
+      <list>
+        <DataMapping>
+          <option name="type" value="Authorization" />
+          <option name="value" value="Bearer 40c6ce97-7b91-4381-b9ef-29a1db562c81" />
+        </DataMapping>
+      </list>
+    </option>
     <option name="paramGroup">
       <ParamGroup>
         <option name="methodType" value="GET" />
-        <option name="originUrl" value="" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/system/cms/device/deviceTree" />
+        <option name="url" value="/system/cms/device/deviceTree" />
       </ParamGroup>
     </option>
     <option name="projectList">
