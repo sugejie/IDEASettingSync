@@ -96,16 +96,7 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
-          <map>
-            <entry key="model">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="methodType" value="POST" />
+        <option name="methodType" value="GET" />
         <option name="originUrl" value="" />
         <option name="url" value="" />
       </ParamGroup>
