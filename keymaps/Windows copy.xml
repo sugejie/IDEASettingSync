@@ -94,12 +94,12 @@
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="cn.wind.action.NextAction">
-    <keyboard-shortcut first-keystroke="ctrl alt 3" />
     <keyboard-shortcut first-keystroke="alt d" />
+    <mouse-shortcut keystroke="alt button142" />
   </action>
   <action id="cn.wind.action.PrevAction">
-    <keyboard-shortcut first-keystroke="ctrl alt 2" />
     <keyboard-shortcut first-keystroke="alt a" />
+    <mouse-shortcut keystroke="alt button143" />
   </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
