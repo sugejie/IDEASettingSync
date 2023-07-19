@@ -5,6 +5,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="imports" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
