@@ -1,6 +1,7 @@
 <application>
   <component name="CodotaSettings">
     <option name="methodCompletionsPercentageSet" value="true" />
+    <option name="overrideDoubleCtrlOpenSearch" value="true" />
     <option name="id" value="bd6c06f1-8010-48d7-a656-6cc52c3fa6c8" />
     <option name="wasRunBefore" value="true" />
     <option name="firstRun" value="1668169353572" />
@@ -9,6 +10,8 @@
     <option name="isInJSBeta" value="YES" />
     <option name="isMethodCompletionsPercentageActive" value="true" />
     <option name="isMethodCompletionsPercentageSet" value="true" />
+    <option name="isOverrideDoubleCtrlOpenSearch" value="true" />
+    <option name="isTelemetryEnabled" value="false" />
     <option name="testedFeatureFlags">
       <set>
         <option value="deep-completions" />
